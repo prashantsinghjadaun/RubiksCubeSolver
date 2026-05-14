@@ -1,5 +1,5 @@
 //
-// Created by Lakshya Mittal on 18-02-2022.
+// Created by Prashant Singh
 //
 
 #ifndef RUBIKS_CUBE_SOLVER_CORNERDBMAKER_H
